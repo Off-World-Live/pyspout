@@ -10,7 +10,7 @@ A simple [Spout2](https://github.com/leadedge/spout2) implementation for sending
 
 3. Create your sender with name and dimensions
 
-4. Call `sender.send_image(frame, GL_RGB)` where `frame` is a numpy array
+4. Call `sender.send_image(frame)` where `frame` is a numpy array
 
 ```python
 # import module

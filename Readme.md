@@ -60,11 +60,11 @@ a different python version, you will need to update the following configurations
 
 5. Open the `C/C++` section and click on `General`
 
-6. Edit `Additional Include Directories` and add `<your python install path>\includes`
+6. Edit `Additional Include Directories` and add `<your python install path>\include`
 
 7. Open the `Linker` section and click on `General`
 
-8. Edit `Additional Library Directories` and add `<your python install path>\Lib`
+8. Edit `Additional Library Directories` and add `<your python install path>\libs`
 
 9. Click Apply.
 
